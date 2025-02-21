@@ -3,7 +3,7 @@
     border-radius: 25px;
     position: relative;
     height: 300px;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 .block-3-image{
     position: absolute;
@@ -36,8 +36,7 @@
         background-color: #00000000;
         border-radius: 25px;
         position: relative;
-        height: 300px;
-        margin-bottom: 130vw;
+        height: auto;
     }
     .block-3-image{
         position: static;
