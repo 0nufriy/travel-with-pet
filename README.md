@@ -1,5 +1,10 @@
 # Travel with pet
 
+**Travel with Pet** is a web application designed to assist pet owners in planning and managing their travels with their beloved animals. The platform offers features such as:
+
+- **Pet-Friendly Accommodation Finder**: Locate hotels and rentals that welcome pets.
+- **Travel Tips and Guidelines**: Access information on traveling safely with pets, including necessary documentation and health requirements.
+- **User Reviews and Ratings**: Share and read experiences from other pet owners about various travel services and accommodations.
 
 ## Requirements
 
