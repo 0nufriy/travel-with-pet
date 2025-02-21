@@ -41,6 +41,7 @@
     }
     .block-3-image{
         position: static;
+        max-width: none;
         width: 100%; 
     }
     .block-3-content{
