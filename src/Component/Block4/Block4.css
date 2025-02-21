@@ -1,0 +1,31 @@
+.block-4{
+    width: 100%;
+}
+.block-4-content{
+    color: white;
+    font-family: 'Poppins';
+}
+.block-4-title{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) { 
+    .block-4-content{
+        color: white;
+        font-family: 'Poppins';
+    }
+    .block-4-title{
+        text-transform: uppercase;
+        font-weight: 100;
+        font-size: 1em;
+        font-family: 'Kanit';
+        border-bottom: 2px solid white;
+    }
+    .block-4-text{
+        font-family: 'Montserrat';
+        font-weight: bold;
+    }
+}
